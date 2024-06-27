@@ -8,4 +8,4 @@ Please visit my [LinkedIn Profile](https://www.linkedin.com/in/jinook-kim/)
 
 ## Contact
 
-LinkedIn or jinook.kim@icloud.com
+<b>LinkedIn</b> or <b>jinook.kim@icloud.com</b>
