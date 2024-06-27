@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I am majoring in cybersecurity at BYU. I'm particularly interested in pentesting and enjoy solving CTF problems.
 
-## Commands
+## Experience
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Please visit my [LinkedIn Profile](https://www.linkedin.com/in/jinook-kim/)
