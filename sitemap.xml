@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jinook-kim.github.io/JKim/</loc>
+         <lastmod>2024-06-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jinook-kim.github.io/JKim/Pentest/1-recon/</loc>
+         <lastmod>2024-06-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jinook-kim.github.io/JKim/Pentest/2-initialAccess/</loc>
+         <lastmod>2024-06-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jinook-kim.github.io/JKim/Pentest/3-pe/</loc>
+         <lastmod>2024-06-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
